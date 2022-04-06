@@ -42,7 +42,7 @@ nbclient==0.1.0
 nbconvert==5.6.1
 nbformat==5.0.4
 -e ./NGDataPortal
-notebook==6.0.3
+notebook==6.4.10
 numpy==1.18.1
 pandas==1.0.0
 pandocfilters==1.4.2
