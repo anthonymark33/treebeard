@@ -43,7 +43,7 @@ nbconvert==5.6.1
 nbformat==5.0.4
 -e ./NGDataPortal
 notebook==6.0.3
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.0
 pandocfilters==1.4.2
 papermill==2.0.0
